@@ -9,7 +9,7 @@ You need Visual Studio Code with the extension [.NET Interactive Notebooks](http
 
 ### If you are not a .NET developer
 Either:
-- Install [.NET6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- Install [.NET5 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 Or:
 - `docker run -p 8888:8888 pocki/minimal-dotnet:latest`
