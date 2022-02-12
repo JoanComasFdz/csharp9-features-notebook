@@ -13,5 +13,5 @@ Either:
 - Install [.NET5 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 Or:
-- `docker run -p 8888:8888 pocki/minimal-dotnet:latest`
+- `docker run -p 8888:8888 pocki/minimal-dotnet::20210804`
 - Open the file in the JupyterLab.
