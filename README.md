@@ -2,7 +2,7 @@
 A C# Jupyter notebook to show the new features for C#9
 
 ## How to use
-You need Visual Studio Code with the extension [.NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
+You need [Visual Studio Code](https://code.visualstudio.com/) with the [.NET Interactive Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension.
 
 1. Open the **csharp9-features.ipynb** file with Visual Studio Code
 
