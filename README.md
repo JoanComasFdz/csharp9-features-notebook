@@ -6,6 +6,7 @@ You need Visual Studio Code with the extension [.NET Interactive Notebooks](http
 
 1. Open the **csharp9-features.ipynb** file with Visual Studio Code
 
+[Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 ### If you are not a .NET developer
 Either:
